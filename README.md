@@ -7,6 +7,8 @@ empty/decorative (intentional, passes), filename-only or generic-word alt
 verdict your CI can gate on. If your docs mix screenshots, diagrams, and
 badges, this is for you; if your images are all decorative dividers, skip it.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Alt text fails quietly: someone pastes a screenshot as `![](image.png)`,
